@@ -1,0 +1,11 @@
+[project]
+name = "agent-food-rec"
+version = "0.1.0"
+description = "Intelligent food recommendation system using iterative web search"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.72.1",
+    "isort>=7.0.0",
+    "ruff>=0.14.4",
+]
